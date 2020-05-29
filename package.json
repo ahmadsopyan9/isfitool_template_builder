@@ -1,0 +1,39 @@
+{
+  "name": "isfitool_template_builder",
+  "description": "Drag and drop website builder javascript library",
+  "version": "0.0.1",
+  "author": "Ahmad Sopyan",
+  "license": "Apache-2.0",
+  "homepage": "https://isfidev.net/App/isfitool_template_builder/v1/editor.php",
+  "main": "libs/builder/builder.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadsopyan9/isfitool_template_builder.git"
+  },
+  "dependencies": {
+    "jquery": "^3.0"
+  },
+  "keywords": [
+    "vvvebjs",
+    "drag-drop",
+    "drag&drop",
+    "drag",
+    "drop",
+    "wysiwyg",
+    "web",
+    "template",
+    "editor",
+    "site",
+    "builder"
+  ],
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp",
+    "gulp-sass": "^4.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmadsopyan9/isfitool_template_builder/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
