@@ -5,7 +5,7 @@ Built with jQuery and Bootstrap 4.
 
 [View Live Demo](https://isfidev.net/App/isfitool_template_builder/v1/editor.php)
 
-<img src="https://isfidev.net/App/isfitool_template_builder/v1/Ss_Isfitool_Template_Builder.png">
+<img src="https://isfidev.net/App/isfitool_template_builder/v1/Ss_Isfitool_Template_Builder.jpg">
 
 
 ### Features
